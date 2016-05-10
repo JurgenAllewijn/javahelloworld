@@ -1,3 +1,4 @@
+# test
 FROM java:7
 
 COPY src /home/root/javahelloworld/src 
